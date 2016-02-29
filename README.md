@@ -9,4 +9,6 @@ In comparison with simple Base64 it have one noticable advantage: the links enco
 3. Base62 string can be fully selected by mouse double-click in any text editors or browser address bar
 4. Base62 is the most natural and unambiguous way to encode your data in human-readable form :)
 
-This Base62 implementation is not much slower (or sometimes even faster) than typical implementations of original Base64 found in maven repositories.
+This Base62 implementation is not much slower (sometimes even faster) than typical implementations of original Base64 found in maven repositories.
+
+Variations of Base62 algorithm widely used to represent authentication data in printable and easy-copyable form, for example to encode OAuth 2.0 access_token's data.
