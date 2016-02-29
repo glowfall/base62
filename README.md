@@ -11,4 +11,4 @@ In comparison with simple Base64 it have one noticable advantage: the links enco
 
 This Base62 implementation is not much slower (sometimes even faster) than typical implementations of original Base64 found in maven repositories.
 
-Variations of Base62 algorithm widely used to represent authentication data in printable and easy-copyable form, for example to encode OAuth 2.0 access_token's data.
+Variations of Base62 algorithm widely used to represent authentication data in printable and easy-copyable form, for example to encode OAuth 2.0 `access_token` data.
